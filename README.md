@@ -86,12 +86,12 @@ PDF	Result
 PDF 1	Password recovered and flag captured
 PDF 2	Password recovered and flag captured
 PDF 3	Password recovered and flag captured
+
 Captured Flags
 PDF 1: nw{cybersecurity_flag_captured_2608}
-
 PDF 2: nw{networkwalks_persistence_jtr_270521}
-
 PDF 3: nw{networkwalks_flag_260821_1}
+
 Key Learning
 
 Through this project, I gained practical experience in:
